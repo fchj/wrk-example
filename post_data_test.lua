@@ -1,5 +1,5 @@
 --
--- script for wrk to stress test sms-sender
+-- script for wrk to stress test somewhere.tld/entities
 -- ./wrk -t1 -c1 -d30m -s post_data_test.lua http://somewhere.tld/entities
 --
 
